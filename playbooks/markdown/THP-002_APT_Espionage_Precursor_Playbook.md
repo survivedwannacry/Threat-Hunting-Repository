@@ -635,7 +635,7 @@ OR CommandLine="\*-nop\*-w hidden\*")
 
 - \[ \] Conduct post-incident review within 72 hours; update this playbook with lessons learned
 
-7\. CREDIBLE SOURCES & REFERENCES
+7\. REFERENCES
 
 **Threat Intelligence Sources**
 
