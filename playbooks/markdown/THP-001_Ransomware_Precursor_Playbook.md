@@ -40,19 +40,19 @@ The following ransomware groups and their documented TTPs further confirms this 
 
 The following generalized timeline represents the typical progression from initial access to ransomware deployment, based on observed incidents:
 
-> T-72h ─▶ Initial Access (Phishing, VPN exploit, RMM abuse)
+> T-72h  Initial Access (Phishing, VPN exploit, RMM abuse)
 >
-> T-60h ─▶ C2 Establishment (Cobalt Strike beacon, SystemBC, Sliver)
+> T-60h  C2 Establishment (Cobalt Strike beacon, SystemBC, Sliver)
 >
-> T-48h ─▶ Internal Discovery (ADFind, BloodHound, net commands, nltest)
+> T-48h  Internal Discovery (ADFind, BloodHound, net commands, nltest)
 >
-> T-36h ─▶ Credential Access (Mimikatz, LSASS dump, Kerberoasting)
+> T-36h  Credential Access (Mimikatz, LSASS dump, Kerberoasting)
 >
-> T-24h ─▶ Lateral Movement (PsExec, WMI, RDP, Pass-the-Hash)
+> T-24h  Lateral Movement (PsExec, WMI, RDP, Pass-the-Hash)
 >
-> T-12h ─▶ Pre-Deployment (Backup deletion, AV tampering, exfiltration)
+> T-12h  Pre-Deployment (Backup deletion, AV tampering, exfiltration)
 >
-> T-0h ─▶ RANSOMWARE DEPLOYMENT
+> T-0h  RANSOMWARE DEPLOYMENT
 
 **2. MITRE ATT&CK MAPPING**
 
