@@ -760,7 +760,7 @@ Each detection in this playbook will generate false positives if not properly tu
 | BloodHound Enumeration  | SharpHound.exe -c All             | Detected   | LDAP query spike detected; SPL 2.2 matched        |
 | Discovery Burst         | net user/group/nltest in sequence | Detected   | SPL 2.1 flagged 5 tools in \<2 minutes            |
 
-**9. CREDIBLE SOURCES & REFERENCES**
+**9.  REFERENCES**
 
 **Threat Intelligence**
 
