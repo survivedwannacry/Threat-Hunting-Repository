@@ -432,7 +432,7 @@ Goal: Detect PsExec, WMI remote execution, RDP anomalies, and Pass-the-Hash indi
 
 **Phase 5: Pre-Deployment Indicators**
 
-> **⚠** CRITICAL: These indicators suggest ransomware deployment is imminent. Treat any match as a P1 incident.
+>  CRITICAL: These indicators suggest ransomware deployment is imminent. Treat any match as a P1 incident.
 
 **SPL 5.1 — Shadow Copy / Backup Deletion**
 
