@@ -406,7 +406,7 @@ BY UserId, departure_date, department, days_until_departure
 
 - \[ \] Conduct post-incident review; update this playbook with lessons learned
 
-8\. CREDIBLE SOURCES & REFERENCES
+8\.  REFERENCES
 
 **Primary Intelligence Sources**
 
