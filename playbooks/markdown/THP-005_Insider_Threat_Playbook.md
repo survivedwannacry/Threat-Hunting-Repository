@@ -42,7 +42,7 @@ Insider threats represent one of the most difficult challenges in cybersecurity 
 
 This section provides a structured framework for identifying potential insider threats through behavioral, psychological, and situational indicators. It is designed to complement technical detection (Section 5) by providing early-warning context that pure log analysis cannot capture. All indicators and frameworks are sourced from CISA, Carnegie Mellon CERT/SEI, SIFMA, and peer-reviewed insider threat research.
 
-**⚠ IMPORTANT: Behavioral indicators are risk signals, not proof of malicious intent. No single indicator should trigger an investigation. The convergence of multiple behavioral indicators with technical anomalies warrants further assessment by a cross-functional team including HR, Legal, and Security. Per CISA guidance, the goal of threat assessment is prevention, not punishment.**
+* IMPORTANT: Behavioral indicators are risk signals, not proof of malicious intent. No single indicator should trigger an investigation. The convergence of multiple behavioral indicators with technical anomalies warrants further assessment by a cross-functional team including HR, Legal, and Security. Per CISA guidance, the goal of threat assessment is prevention, not punishment.**
 
 2.1 Insider Motivation Categories
 
