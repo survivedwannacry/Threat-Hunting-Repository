@@ -734,7 +734,7 @@ Each detection in this playbook will generate false positives if not properly tu
 
 **8. LAB VALIDATION**
 
-> **⚠** All testing described below was performed in an isolated lab environment. Never execute offensive tools in production.
+>  All testing described below was performed in an isolated lab environment. Never execute offensive tools in production.
 
 **Lab Environment**
 
